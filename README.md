@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student From 9th Grade<br>Trying To Achieve My Goals<br><br> Owner - FlaxNodes ✨ <br> Developer And Designer At Sakura Client<br>Developer at Moonsky Network<br>
+A Student From 9th Grade<br>Trying To Achieve My Goals<br><br> Owner - FlaxNodes ✨ <br> Developer And Designer At Sakura Client<br>Developer at Moonsky Network<br>System Administrator At Pandios Labs
 
 
 ## 🌐 Socials:
