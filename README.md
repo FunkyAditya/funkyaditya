@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student From 10th Grade<br>Trying To Achieve My Goals<br><br>Owner - FlaxNodes ✨<br>Developer And Designer At Sakura Client <br>Developer At PlexNodes
+A Student From 10th Grade<br>Trying To Achieve My Goals<br><br>Owner - FlaxNodes ✨<br>Developer And Designer At Sakura Client
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mystic._.aditya) 
