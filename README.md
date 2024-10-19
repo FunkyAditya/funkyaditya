@@ -12,8 +12,6 @@ A Student Of 10th Grade<br>A Nerd ✨<br>A Fullstack Developer<br>A Cyber Securi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=funkyaditya&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=funkyaditya&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=funkyaditya&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
