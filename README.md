@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student Of 10th Grade<br>A Fullstack Developer<br>A Cyber Security Enthusiast<br><br>Trying To Achieve My Goals<br><br>Owner - FlaxNodes ✨<br>Developer And Designer At Sakura Client<br>Self Taught 💪🏼
+A Student Of 10th Grade<br>A Fullstack Developer<br>A Cyber Security Enthusiast<br><br>Trying To Achieve My Goals<br><br>Django Developer at ALTACEE<br>Developer And Designer at Sakura Client<br>Self Taught 💪🏼
 
 
 ## 🌐 Socials:
