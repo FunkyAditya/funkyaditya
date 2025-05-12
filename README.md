@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student Of 10th Grade<br>A Fullstack Developer<br>A Cyber Security Enthusiast<br><br>Django Developer at ALTACEE<br>Self Taught 💪🏼
+A Student Of 10th Grade<br>A Fullstack Developer<br>A Cyber Security Enthusiast<br><br>Self Taught 💪🏼
 
 
 ## 🌐 Socials:
